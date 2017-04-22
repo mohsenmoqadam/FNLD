@@ -53,5 +53,4 @@ static int lcd5110_write(struct cdev *dev, struct uio *uio, int ioflag);
 static int lcd5110_probe(device_t dev);
 static int lcd5110_attach(device_t dev);
 static int lcd5110_detach(device_t dev);
-
-
+static int lcd5110_shutdown(device_t dev);
