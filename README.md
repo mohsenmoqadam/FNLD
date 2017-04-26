@@ -1,11 +1,11 @@
 FNLD
 =====
 FNLD is `Nokia 5110 LCD` driver for FreeBSD OS. `Nokia 5110 LCD` is low-cost, low power, and stable GLCD. 
-At the moment many libraries developed based on C, C++, and Python. These libraries suitable for use with Arduino and Linux-based OS
+At the moment many libraries are developed based on C, C++, and Python. These libraries are suitable and use with Arduino and Linux-based OS
 like Raspbian. 
-If your FreeBSD boots on `Raspberry Pi 2`, FNLD help you for sending and showing strings on `Nokia 5110 LCD`. 
-In the following, I first present you how to connect `Nokia 5110 LCD` to your `Raspberry Pi 2` and next illustrate how to prepare
-FreeBSD and use this driver.
+If your FreeBSD boots on `Raspberry Pi 2`, FNLD helps you for sending and showing strings on `Nokia 5110 LCD`. 
+In the following, First I'll present you how to connect `Nokia 5110 LCD` to your `Raspberry Pi 2` and next illusterate how to prepare
+FreeBSD and use of this driver.
 
 1-Hardware Connections
 -----
